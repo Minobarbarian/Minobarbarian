@@ -4,7 +4,6 @@ I'm Joao Antonio, student of Information Technology at Federal University of Rio
 <div>
 <a href="https://github.com/Minobarbarian">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minobarbarian&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Minobarbarian&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
 </div>
   
 ## Contact Me:
